@@ -1,4 +1,4 @@
-# A-S
+
 # [AI训练营]PaddleX实现目标检测baseline
 
 手把手教你基于PaddleX实现目标检测。你需要实现以下任务：
@@ -1075,22 +1075,4 @@ model.train(
 <font size ="5" color="red">写在最后</fort>
 
 <font size ="3" >关于本次作业，嗯......，好像是跑通了，也好像没跑通，总之应该是参数设定还不足够完善。（感觉没跑通是因为最后结束出现了一些参数报错，但感觉跑通了，是最终也生成了压缩包，我还试着解压了一下），还有就是不知道再加啥参数了（看了看参考链接，将参数基本都用了，因为担心参数数值设置出错，基本还都用的默认参数）。参加这个活动，第一次接触，项目以后还需继续完善。
-
-# 五、作业提交
-
-完成以上四个步骤，并且跑通后，恭喜你！你已经学会使用PaddleX训练目标检测模型了！
-
-首先点击右上方的“**文件**”，点击“**导出Notebook为Markdown**”：
-![](https://ai-studio-static-online.cdn.bcebos.com/0b502ce690274eee89c285c702a26a72ff012df791eb45b79b7866a97f549e33)
-
-导出后的文件用于上传至GitHub。
-
-下面请点击左侧“版本”，在出现的新界面中点击“生成新版本”，按如下操作即可生成版本，用于提交作业：
-![](https://ai-studio-static-online.cdn.bcebos.com/4e58b131f2db45289119dfa90081eea43b781d6894254069b4f02cffa067ffe1)
-
-生成版本后，回到项目主页，点击“**设置为公开**”：
-![](https://ai-studio-static-online.cdn.bcebos.com/4a9229e9eb8146169c848327ccb1f85ea30af431eee14aea9c2e6c9aeb364926)
-
-
-
 
